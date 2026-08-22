@@ -2,21 +2,21 @@
 
 I'm a biomedical researcher specializing in **computational genomics, bioinformatics, and quantitative biomedical research**. My work spans cancer genomics, mutational signatures, RNA-seq, statistical modeling, and pharmacokinetic modeling.
 
-## 🔬 Research Interests
+## Research Interests
 - Cancer genomics & mutational signatures
 - RNA-seq & bioinformatics
 - Computational and statistical genomics
 - Translational biomedical data analysis
 - Pharmacokinetics & pharmacometrics
 
-## 💻 Technical Toolkit
+## Technical Toolkit
 **Languages:** Python, R, Bash  
 **Genomics:** GATK, BWA, samtools, bcftools, ANNOVAR, SigProfiler  
 **Computing:** Linux/Unix, HPC, SLURM, Nextflow, Git/GitHub  
 **Data & Statistics:** pandas, NumPy, SciPy, statsmodels, lifelines  
 **Pharmacometrics:** GastroPlus, ADMET Predictor
 
-## 🧬 Selected Research
+## Selected Projects
 
 ### RNA-seq Software Benchmarking
 First-author research benchmarking 400+ bulk RNA-seq tools to investigate how software-development practices influence tool usability, adoption, and scientific impact.
