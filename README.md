@@ -16,7 +16,7 @@ I'm a biomedical researcher specializing in **computational genomics, bioinforma
 **Data & Statistics:** pandas, NumPy, SciPy, statsmodels, lifelines  
 **Pharmacometrics:** GastroPlus, ADMET Predictor
 
-## Selected Projects
+## Research Projects
 
 ### RNA-seq Software Benchmarking
 First-author research benchmarking 400+ bulk RNA-seq tools to investigate how software-development practices influence tool usability, adoption, and scientific impact.
