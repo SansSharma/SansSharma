@@ -1,6 +1,6 @@
 # Hi, I'm Sanskruti!
 
-I'm a biomedical researcher specializing in **computational genomics, bioinformatics, and quantitative biomedical research**. My work spans cancer genomics, mutational signatures, RNA-seq, statistical modeling, and pharmacokinetic modeling.
+I'm a biomedical researcher specializing in **bioinformatics and quantitative biomedical research**. My work spans cancer genomics, mutational signatures, RNA-seq, statistical modeling, and pharmacokinetic modeling.
 
 ## Technical Toolkit
 **Languages:** Python, R, Bash  
